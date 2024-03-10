@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{d929ce18-01d0-0ae4-2e10-070b65958e39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WxEditor", "WxEditor.csproj", "{1f3100f4-f83c-2b84-4ff2-22845ea0e1a0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AssetBundleBrowser.Editor", "Unity.AssetBundleBrowser.Editor.csproj", "{243ef92c-d968-264a-8e9c-68fa2d0be5f8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wx", "Wx.csproj", "{709fdeaa-7ade-4d3d-8a6b-8d4b19da0a03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{d929ce18-01d0-0ae4-2e10-070b65958e39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d929ce18-01d0-0ae4-2e10-070b65958e39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1f3100f4-f83c-2b84-4ff2-22845ea0e1a0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1f3100f4-f83c-2b84-4ff2-22845ea0e1a0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243ef92c-d968-264a-8e9c-68fa2d0be5f8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243ef92c-d968-264a-8e9c-68fa2d0be5f8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709fdeaa-7ade-4d3d-8a6b-8d4b19da0a03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709fdeaa-7ade-4d3d-8a6b-8d4b19da0a03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

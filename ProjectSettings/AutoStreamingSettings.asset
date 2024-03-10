@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!1200 &1
+AutoStreamingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  mSearchMode: 7
+  mCustomSearchFile: 
+  mTextureSearchString: 
+  mMeshSearchString: 
+  mTextures:
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/GoldCoin 1.png
+    localFileId: 2800000
+    rtMem: 4182844
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 887
+    height: 885
+    abSize: 767594
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Running.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 30941
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/characters/kimmy/textures/Ch09_1001_Normal.png
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 1317727
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/characters/kimmy/textures/Ch09_1001_Diffuse.png
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 1874487
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Textures/Emission.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 2239
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Textures/Albedo.png
+    localFileId: 2800000
+    rtMem: 349552
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 6687
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Textures/Metallic-Smoothness.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 10619
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/GoldCoin N.png
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 399485
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/GoldCoin.png
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 397563
+  mAudios:
+  - onDemandDownload: 1
+    assetPath: Assets/Audio/SFX/CrashThud.wav
+    localFileId: 8300000
+    rtMem: 24216
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Audio/SFX/Ready.wav
+    localFileId: 8300000
+    rtMem: 9418
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Audio/BGM/DesertBGM.mp3
+    localFileId: 8300000
+    rtMem: 1004763
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Audio/SFX/CoinSFX.wav
+    localFileId: 8300000
+    rtMem: 7485
+    warningFlag: 0
+    refs:
+    - 0
+  mMeshes:
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Terrain_1.fbx:Terrain_1
+    localFileId: 4300000
+    rtMem: 38208
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Plant_1.fbx:Plant_1
+    localFileId: 4300000
+    rtMem: 16896
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Rock_2.fbx:Rock_2
+    localFileId: 4300000
+    rtMem: 10272
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_2.fbx:Tree_2
+    localFileId: 4300000
+    rtMem: 189120
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_2.fbx:Leaves_5
+    localFileId: 4300002
+    rtMem: 10848
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_2.fbx:Leaves_4
+    localFileId: 4300004
+    rtMem: 10512
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_2.fbx:Leaves_2
+    localFileId: 4300006
+    rtMem: 11232
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_2.fbx:Leaves_1
+    localFileId: 4300008
+    rtMem: 11328
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_2.fbx:Leaves_3
+    localFileId: 4300010
+    rtMem: 11328
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_3.fbx:Leaves_1
+    localFileId: 4300000
+    rtMem: 10752
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_3.fbx:Leaves_2
+    localFileId: 4300002
+    rtMem: 11136
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_3.fbx:Leaves_3
+    localFileId: 4300004
+    rtMem: 11232
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_3.fbx:Leaves_4
+    localFileId: 4300006
+    rtMem: 10944
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_3.fbx:Leaves_5
+    localFileId: 4300008
+    rtMem: 10992
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_3.fbx:Leaves_6
+    localFileId: 4300010
+    rtMem: 11136
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Tree_3.fbx:Tree_3
+    localFileId: 4300012
+    rtMem: 101088
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Plant_7.fbx:Plant_7
+    localFileId: 4300000
+    rtMem: 19968
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Rock_4.fbx:Rock_4
+    localFileId: 4300000
+    rtMem: 12288
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Plant_4.fbx:Plant_4
+    localFileId: 4300000
+    rtMem: 9216
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Log_1.fbx:Log_1
+    localFileId: 4300000
+    rtMem: 42144
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Bush_1.fbx:Bush_1
+    localFileId: 4300000
+    rtMem: 29328
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Plant_5.fbx:Plant_5
+    localFileId: 4300000
+    rtMem: 38304
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/characters/kimmy/Ch09_nonPBR@Standard Idle.fbx:Ch09
+    localFileId: 3143485803880685963
+    rtMem: 1365600
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Mounting_1.fbx:Mounting_1
+    localFileId: 4300000
+    rtMem: 380352
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Plant_2.fbx:Plant_2
+    localFileId: 4300000
+    rtMem: 23040
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/LowPoly Environment Pack/FBX/Grass_1.fbx:Grass_1
+    localFileId: 4300000
+    rtMem: 7872
+    warningFlag: 1
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Meshes/TurtleShellMesh.fbx:TurtleShell
+    localFileId: 4300000
+    rtMem: 68160
+    warningFlag: 1
+    refs:
+    - 0
+  mAnimations:
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/IdleNormal_TurtleShell_Anim.fbx:IdleNormal
+    localFileId: 7400000
+    rtMem: 17224
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Animations/FadeIn.anim:FadeIn
+    localFileId: 7400000
+    rtMem: 2664
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Animations/camera_shark.anim:camera_shark
+    localFileId: 7400000
+    rtMem: 3340
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Animations/CountAnim.anim:CountAnim
+    localFileId: 7400000
+    rtMem: 2920
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/characters/kimmy/Ch09_nonPBR@Standard Idle.fbx:Standard Idle
+    localFileId: -203655887218126122
+    rtMem: 40433
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/Taunt_TurtleShell_Anim.fbx:Taunt
+    localFileId: 7400000
+    rtMem: 59712
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/Walk_TurtleShell_Anim.fbx:WalkFWD
+    localFileId: 7400000
+    rtMem: 19692
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/SenseSomethingStart_TurtleShell_Anim.fbx:SenseSomethingST
+    localFileId: 7400000
+    rtMem: 31716
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/SenseSomethingRT_TurtleShell_Anim.fbx:SenseSomethingRPT
+    localFileId: 7400000
+    rtMem: 32512
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/Victory_TurtleShell_Anim.fbx:Victory
+    localFileId: 7400000
+    rtMem: 42708
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/WalkBack_TurtleShell_Anim.fbx:WalkBWD
+    localFileId: 7400000
+    rtMem: 19832
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/Run_TurtleShell_Anim.fbx:RunFWD
+    localFileId: 7400000
+    rtMem: 19324
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/GetHit_TurtleShell_Anim.fbx:GetHit
+    localFileId: 7400000
+    rtMem: 26440
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/Attack02_TurtleShell_Anim.fbx:Attack02
+    localFileId: 7400000
+    rtMem: 34392
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/Dizzy_TurtleShell_Anim.fbx:Dizzy
+    localFileId: 7400000
+    rtMem: 29808
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/WalkLeft_TurtleShell_Anim.fbx:WalkLeft
+    localFileId: 7400000
+    rtMem: 26632
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/Die_TurtleShell_Anim.fbx:Die
+    localFileId: 7400000
+    rtMem: 36180
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/Defend_TurtleShell_Anim.fbx:Defend
+    localFileId: 7400000
+    rtMem: 25232
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/DefendHit_TurtleShell_Anim.fbx:DefendGetHit
+    localFileId: 7400000
+    rtMem: 13824
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/Attack01_TurtleShell_Anim.fbx:Attack01
+    localFileId: 7400000
+    rtMem: 36032
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/IdleBattle_TurtleShell_Anim.fbx:IdleBattle
+    localFileId: 7400000
+    rtMem: 25160
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/RPG Monster DUO PBR Polyart/Animations/TurtleShell/WalkRight_TurtleShell_Anim.fbx:WalkRight
+    localFileId: 7400000
+    rtMem: 26632
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/characters/kimmy/Ch09_nonPBR@Jump.fbx:Jump
+    localFileId: -203655887218126122
+    rtMem: 114225
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/characters/kimmy/Ch09_nonPBR@Fast Run (1).fbx:Fast Run
+    localFileId: -203655887218126122
+    rtMem: 52053
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/characters/kimmy/Ch09_nonPBR@Stumble Backwards.fbx:Stumble
+      Backwards
+    localFileId: -203655887218126122
+    rtMem: 184229
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/characters/kimmy/Ch09_nonPBR@Standard Run.fbx:Standard Run
+    localFileId: -203655887218126122
+    rtMem: 81509
+    warningFlag: 0
+    refs:
+    - 0
+  mSharedSceneAssets: []
+  mScenes:
+  - onDemandDownload: 1
+    assetPath: Assets/Scenes/SampleScene.scene
+    localFileId: -1
+    rtMem: 0
+    warningFlag: 0
+    refs: []
+  mConfigCCD:
+    useCCD: 0
+    uosSecret: 3be05a20678e45fbad12207f9f23814f
+    uosAppid: 06d983d9-b13f-4b70-a0c8-af2bdbb2486b
+    bucketUuid: 0e95c657-8da0-4422-8e01-e938c4cf74f1
+    bucketName: bucket1
+    badgeName: v1
+    ttAppid: 
+    targetPlatfrom: 
