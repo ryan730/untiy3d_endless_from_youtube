@@ -64,7 +64,7 @@ public class GenerateLevel : MonoBehaviour
         generateCoin(section[secNum]);
 
         zPos += 24;
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(6);
         creatingsection = false;
 
     }
